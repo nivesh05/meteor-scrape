@@ -5,7 +5,7 @@ HTML sites or RSS/Atom-Feeds and get a nicely detailed result object back. A few
 excellent NPM modules:
 
 - **Encoding autocorrection**: non-UTF-8 sources, get [detected](https://github.com/runk/node-chardet) and [converted](https://github.com/ashtuchkin/iconv-lite)
-- Follows the **Google Ajax Specification***, [can scrape dynamic pages](https://developers.google.com/webmasters/ajax-crawling/)
+- Follows the **Google Ajax Specification*** , [can scrape dynamic pages](https://developers.google.com/webmasters/ajax-crawling/)
 - **[Language Detection](https://github.com/wooorm/franc)** is built in
 - fast and sophisticated **[tagging](https://github.com/nefiltari/yaki)**
 - **RSS/Atom feed parsing** and item optimization:
